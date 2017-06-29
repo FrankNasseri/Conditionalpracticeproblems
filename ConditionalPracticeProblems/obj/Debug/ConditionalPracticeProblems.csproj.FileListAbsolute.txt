@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\bin\Debug\ConditionalPracticeProblems.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\bin\Debug\ConditionalPracticeProblems.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\bin\Debug\ConditionalPracticeProblems.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\obj\Debug\ConditionalPracticeProblems.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\obj\Debug\ConditionalPracticeProblems.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\obj\Debug\ConditionalPracticeProblems.pdb
